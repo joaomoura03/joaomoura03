@@ -52,10 +52,6 @@
 
 
 ## Frameworks and Databases
-<a href="https://getbootstrap.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
-</a> 
-
 <a href="https://nodejs.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
 </a> 

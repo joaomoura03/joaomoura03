@@ -97,10 +97,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.jetbrains.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/> 
-</a>
-
 
 <hr style="height:30 pt; visibility:hidden;" />
 <h3>Where to find me</h3>

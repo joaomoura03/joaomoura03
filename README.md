@@ -1,7 +1,7 @@
 ## Who am I
 <div align="center" display="flex" style="color:red;">
   <p> Hi, I'm João Moura and I'm a Software Engineer from Portugal</p>
-  <img src="https://instagram.fopo3-1.fna.fbcdn.net/v/t51.75761-15/483480387_18398472115096725_8086006729446143262_n.webp?_nc_cat=101&ig_cache_key=MzU4ODA1MzQ0MjAwMTg2MjA3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=xRENKRTigvYQ7kNvwFaxUOY&_nc_oc=AdmQl_AHHj-H_oh2RTnS-QT1NtIiTkHHG4gGD3-Owxny4ovk1t49z3nhlVmjPmqaE7E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fopo3-1.fna&_nc_gid=NEvgwppLHB9wW1JMyou5GQ&_nc_ss=8&oh=00_AfxsNY_e-EZel7pYqRrXX3qEHzPUwI8U3EWecBFPUjS25Q&oe=69B66ACB" width="40" height="51"/>
+  <img src="https://instagram.fopo3-1.fna.fbcdn.net/v/t51.75761-15/483480387_18398472115096725_8086006729446143262_n.webp?_nc_cat=101&ig_cache_key=MzU4ODA1MzQ0MjAwMTg2MjA3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=xRENKRTigvYQ7kNvwFaxUOY&_nc_oc=AdmQl_AHHj-H_oh2RTnS-QT1NtIiTkHHG4gGD3-Owxny4ovk1t49z3nhlVmjPmqaE7E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fopo3-1.fna&_nc_gid=NEvgwppLHB9wW1JMyou5GQ&_nc_ss=8&oh=00_AfxsNY_e-EZel7pYqRrXX3qEHzPUwI8U3EWecBFPUjS25Q&oe=69B66ACB" width="400" height="510"/>
 </div>
   
 <hr style="height:30 pt; visibility:hidden;" />

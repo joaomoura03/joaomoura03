@@ -1,6 +1,6 @@
 ## Who am I
 <div align="center" display="flex" style="color:red;">
-  <p> Hi, I'm João Moura and I'm a Software Engineer</p>
+  <p> Hi, I'm João Moura and I'm a Software Engineer from Portugal</p>
 </div>
   
 <hr style="height:30 pt; visibility:hidden;" />

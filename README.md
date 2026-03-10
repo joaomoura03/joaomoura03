@@ -1,6 +1,5 @@
 <div align="center" display="flex" style="color:red;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoura03&layout=compact&theme=vision-friendly-dark"
-    height="180rem"/>
+  <p> Hi, I'm João Moura and I'm a Software Engineer</p>
 </div>
   
 <hr style="height:30 pt; visibility:hidden;" />
